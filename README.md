@@ -2,6 +2,8 @@
 
 Use Unsplash's API to get fantastic wallpapers in WezTerm's background.
 
+[wezterm-unsplash-sped.webm](https://github.com/yunusey/unsplash-wezterm/assets/107340417/9e1ab7b9-ea9a-4b20-abfe-812b09b43070)
+
 ## Installation
 
 First, you need to clone and build the project:
